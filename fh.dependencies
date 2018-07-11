@@ -1,10 +1,5 @@
 [
  {
-   "repository":  "Adesh15/android_kernel_xiaomi_msm8953",
-   "target_path": "kernel/xiaomi/msm8953",
-   "branch":      "lineage-15.1"
- },
- {
    "repository":  "TheMuppets/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
    "branch":      "lineage-15.1"
